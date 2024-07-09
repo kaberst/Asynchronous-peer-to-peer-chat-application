@@ -1,0 +1,20 @@
+[
+    {
+        "username": "user1",
+        "password": "pass1",
+        "port": 88,
+        "ip": "192.168.1.203"
+    },
+    {
+        "username": "user2",
+        "password": "pass2",
+        "port": 88,
+        "ip": "192.168.1.154"
+    },
+    {
+        "username": "user3",
+        "password": "pass3",
+        "port": 88,
+        "ip": "192.168.1.247"
+    }
+]
